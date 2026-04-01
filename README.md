@@ -32,7 +32,6 @@ I'm not even gonna bother with a complex installation process. Just run the scri
 ```
 git clone [https://github.com/rezeksaa/shell-gw.git](https://github.com/rezeksaa/shell-gw.git)
 cd shell-gw
-chmod +x install.sh
 ./install.sh
 quickshell
 ```
