@@ -4,16 +4,16 @@ Desktop shell built with Quickshell and QML, featuring integrated MPRIS media co
 ---
 
 ### 📺 Demo
-<div align="center">
-  <video src="assets/demo.mp4" width="100%" controls muted></video>
-</div>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/45c1233e-a54e-405f-9e95-de3985ea9b9b" width="100%" controls>
+  </video>
+</p>
 
 ---
 
 ### Features
-* **Dynamic Music Center**: Full MPRIS integration (optimized for Spotify) with live progress tracking, album art caching, and clickable seeking.
-* **Hardware Management**: Custom-built modules for WiFi (NetworkManager), Bluetooth (BlueZ), and system brightness/volume control.
-* **Modern Aesthetics**: Custom "BarCorner" components for seamless UI transitions and a consistent global radius across all panels.
+* **Music Center**: Full MPRIS integration (optimized for Spotify).
+* **Hardware Management**: Custom-built modules for WiFi, Bluetooth, and system brightness/volume control.
 
 not as good as the other shell, but i made it myseft ;)
 
