@@ -30,10 +30,10 @@ bind = SUPER, X, global, quickshell:toggle-clipboard
 I'm not even gonna bother with a complex installation process. Just run the script.
 
 ```
-git clone [https://github.com/rezeksaa/shell-gw.git](https://github.com/rezeksaa/shell-gw.git)
+git clone https://github.com/rezeksaa/shell-gw.git
 cd shell-gw
 ./install.sh
-quickshell
+quickshell &; disown
 ```
 
 if it break then it's a feature
