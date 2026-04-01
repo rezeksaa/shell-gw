@@ -15,7 +15,7 @@ Desktop shell built with Quickshell and QML, featuring integrated MPRIS media co
 * **Music Center**: Full MPRIS integration (optimized for Spotify).
 * **Hardware Management**: Custom-built modules for WiFi, Bluetooth, and system brightness/volume control.
 
-not as good as the other shell, but i made it myseft :p
+not as good as the other shell, but i made it myself :p
 
 # Keybindings 
 These binds communicate with Quickshell's GlobalShortcut service
